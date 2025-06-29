@@ -1,4 +1,8 @@
 🪖 Real-Time Helmet Detection System:
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kolla%20KiranKumar-red)
+---
+
 A real-time computer vision system to **detect motorcycle riders without helmets**, capture violations, recognize number plates, reject deepfake/fake faces, and generate live alerts & reports.
 
 Features:
